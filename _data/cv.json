@@ -1,152 +1,263 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
-    "location": {
-      "address": "",
-      "postalCode": "",
-      "city": "Earth",
-      "countryCode": "US",
-      "region": ""
-    },
-    "profiles": [
-      {
-        "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-      },
-      {
-        "network": "ORCID",
-        "username": "",
-        "url": "https://orcid.org/yourorcidurl"
-      },
-      {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
-      }
-    ]
+    "name": "David Steven Milley",
+    "label": "Professional Archaeologist & GIS Analyst",
+    "email": "david.milley@gmail.com"
   },
-  "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
+      "institution": "The Graduate Center, CUNY",
+      "area": "Anthropological Archaeology",
+      "studyType": "PhD",
+      "endDate": "2025",
+      "summary": "Dissertation: Sensing Prehistory: A Framework Reconciling Scientific Modeling and Human Experience through Affordance Theory."
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
+      "institution": "The Graduate Center, CUNY",
+      "area": "Anthropological Archaeology",
+      "studyType": "MPhil",
+      "endDate": "2024"
+    },
+    {
+      "institution": "The Graduate Center, CUNY",
+      "area": "Anthropological Archaeology",
+      "studyType": "MA",
+      "endDate": "2022"
+    },
+    {
+      "institution": "Hunter College, CUNY",
+      "area": "Geographic Information Systems",
+      "studyType": "Advanced Certificate",
+      "endDate": "2022"
+    },
+    {
+      "institution": "University of Calgary",
+      "area": "Archaeology",
+      "studyType": "MA",
+      "endDate": "2020",
+      "summary": "Thesis: Hydrological Landscape Analysis of a Sinuous Depression, Yaxnohcah, Mexico."
+    },
+    {
+      "institution": "University of New Brunswick",
+      "area": "Archaeology and Philosophy",
+      "studyType": "BA (First Class Honours)",
+      "endDate": "2017"
+    }
+  ],
+  "work": [
+    {
+      "company": "Canada Post Corporation",
+      "position": "GIS Analyst",
+      "location": "Ottawa, ON",
+      "startDate": "2025",
+      "endDate": "Present",
+      "highlights": [
+        "Managing spatial data and delivery implementation scenarios within the Ottawa region.",
+        "Providing technical GIS support for strategic route planning and logistics."
+      ]
+    },
+    {
+      "company": "True North Archaeological Services",
+      "position": "Field Technician",
+      "location": "Ontario",
+      "startDate": "2024",
+      "endDate": "2024",
+      "highlights": ["Conducted archaeological field surveys and technical assessments."]
+    },
+    {
+      "company": "University of Calgary",
+      "position": "Research Assistant",
+      "location": "Calgary, AB",
+      "startDate": "2018",
+      "endDate": "2019",
+      "highlights": [
+        "Curated an extensive EndNote database and assembled references under tight deadlines for journal publications."
+      ]
+    },
+    {
+      "company": "University of New Brunswick Anthropology Lab",
+      "position": "Lab Assistant",
+      "location": "Fredericton, NB",
+      "startDate": "2016",
+      "endDate": "2016",
+      "highlights": [
+        "Coordinated and digitized decades-old records and field reports and cross-referenced these reports with artifact collections.",
+        "Created site reconstruction using CorelDRAW, modelling indigenous dwellings, artifact distributions, and temporal change."
+      ]
+    },
+    {
+      "company": "Atlantic Salmon Museum",
+      "position": "Research Assistant",
+      "location": "Greenspoint, NB",
+      "startDate": "2015",
+      "endDate": "2015",
+      "highlights": [
+        "Photographed and catalogued artifact collections. Prepared museum display."
+      ]
+    },
+    {
+      "company": "University of New Brunswick Anthropology Lab",
+      "position": "Lab Assistant",
+      "location": "Fredericton, NB",
+      "startDate": "2014",
+      "endDate": "2015",
+      "highlights": [
+        "Curated archaeological collection, updating incomplete catalogue entries. Digitally restored and enhanced artifact and excavation photos using Adobe Photoshop.",
+        "Digitally rephotographed numerous artifacts and digitized paper archival records."
+      ]
+    },
+    {
+      "company": "UNB Electronic Text Centre",
+      "position": "Archival Imaging Assistant",
+      "location": "Fredericton, NB",
+      "startDate": "2014",
       "endDate": "2014",
-      "gpa": null,
-      "courses": []
+      "highlights": [
+        "Digitized archival documents, performed quality control, and managed image database."
+      ]
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
-  "references": [],
-  "publications": [
-    {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
-      "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
+      "company": "University of New Brunswick Anthropology Lab",
+      "position": "Volunteer Lab Assistant",
+      "location": "Fredericton, NB",
+      "startDate": "2013",
+      "endDate": "2014",
+      "highlights": [
+        "Curated archaeological collection, extensively reorganizing precontact and historic artifact collections. Relocated artifacts to new storage containers.",
+        "Verified all artifacts were catalogued and identified incomplete entries."
+      ]
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
+      "institution": "Brooklyn College (BC), CUNY",
+      "role": "Adjunct Professor",
+      "course": "Digging the Past (ANTH1400/CLAS3210)",
+      "date": "2021 – 2023",
+      "highlights": [
+        "Created an open and accepting course space that accommodated a variety of learning styles: Provided space for self-expression through directed introduction activities, space for blog-style biographies, and created space for all students to share and express ideas.",
+        "Held one-on-one meetings with every student to develop a connection and understand their individual needs in terms of feeling safe and learning.",
+        "Encouraged peer-based learning by dedicating time every session for group discussions and problem solving, assigning peer-reviewed projects, and creating online discussion boards to provide an additional venue for the exchange of ideas and collaborations.",
+        "Designed assignments and examinations that provided flexibility for students to articulate their ideas.",
+        "Favoured written answers over multiple choice as students are better able to communicate their understanding using this medium.",
+        "Assigned an ‘unessay’ rather than a traditional essay. This assignment allowed students to research a traditional essay topic but placed no restrictions on the medium and methods they used to communicate their research findings.",
+        "Provided extensive feedback on graded work and allowed students the option of oral rather than written examinations."
+      ]
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
+      "institution": "Brooklyn College (BC), CUNY",
+      "role": "Graduate Teaching Assistantship",
+      "course": "Urban Archaeology (ANTH3420)",
+      "date": "2021/2 – 2021/12",
+      "highlights": [
+        "Administered lectures, graded course material, assisted in organizing sessions, held office hours and mentored students."
+      ]
+    },
+    {
+      "institution": "Brooklyn College (BC), CUNY",
+      "role": "Graduate Teaching Assistantship",
+      "course": "Digging the Past (ANTH1400/CLAS3210)",
+      "date": "2020 – 2021",
+      "highlights": [
+        "Helped adapt course material to Zoom-based learning following the onset of the COVID-19 pandemic.",
+        "Administered lectures, ran and oversaw all online non-lecture components of the course material, assisted in organizing classes, held office hours, and mentored students."
+      ]
+    },
+    {
+      "institution": "Queen’s College, CUNY",
+      "role": "Graduate Teaching Assistantship",
+      "course": "Introduction to Archaeology (ANTH103)",
+      "date": "2019 – 2020",
+      "highlights": [
+        "Administered lectures, graded course material, and assisted in organizing sessions."
+      ]
+    },
+    {
+      "institution": "University of Calgary (UC)",
+      "role": "Graduate Teaching Assistantship",
+      "course": "History of Anthropology (ANTH361)",
+      "date": "2019",
+      "highlights": [
+        "Assisted in organizing sessions, creating, administering, and grading assignments and examinations, held office hours and mentored students."
+      ]
+    },
+    {
+      "institution": "University of Calgary (UC)",
+      "role": "Graduate Teaching Assistantship",
+      "course": "The Incas and Their Successors (ARKY357)",
+      "date": "2018",
+      "highlights": [
+        "Assisted in organizing sessions, creating, administering, and grading assignments and examinations, held office hours and mentored students."
+      ]
+    },
+    {
+      "institution": "University of Calgary (UC)",
+      "role": "Graduate Teaching Assistantship",
+      "course": "Ancient Civilizations (ARKY325)",
+      "date": "2017",
+      "highlights": [
+        "Assisted in organizing sessions, creating, administering, and grading assignments and examinations, held office hours and mentored students."
+      ]
     }
   ],
-  "portfolio": [
+  "projects": [
     {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+      "name": "Poverty Point Research Project (Louisiana, USA)",
+      "role": "Project Lead",
+      "startDate": "2023",
+      "endDate": "2024",
+      "highlights": [
+        "Directed a small team of researchers. Integrated GIS and phenomenology to examine prehistoric landscape use by complex hunter-gatherers, with an emphasis on hydrological modelling and spatial analysis.",
+        "Established connections with local authorities and the community. Conducted drone and ground survey of the site and created a photogrammetry model using the imagery.",
+        "Developed, planned, and performed a project combining experience-based learning with extensive GIS analysis."
+      ]
+    },
+    {
+      "name": "Proyecto Arqueológico Yaxnohcah (Yaxnohcah, Mexico)",
+      "role": "Graduate Researcher and Project Lead",
+      "startDate": "2018",
+      "endDate": "2018",
+      "highlights": [
+        "Developed a GIS and archaeological research project to explore the agricultural canal and directed a small team, working closely with the local and Indigenous community.",
+        "Conducted extensive GIS-based hydrological analyses and field excavations. Applied for and received funding for the project.",
+        "Created high-quality maps, visualizations, and reports, and communicated findings at conferences and publications (thesis and reports)."
+      ]
+    }
+  ],
+ "skills": [
+    {
+      "name": "GIS & Remote Sensing",
+      "keywords": [
+        "ArcGIS Pro", 
+        "ArcGIS Desktop", 
+        "ArcGIS Online", 
+        "QGIS", 
+        "ENVI", 
+        "Lidar Analysis", 
+        "Drone Photogrammetry (Agisoft Metashape)"
+      ]
+    },
+    {
+      "name": "Software & Analysis",
+      "keywords": [
+        "R", 
+        "Python", 
+        "LaTeX", 
+        "Spatial Analysis (Network, Hydrological)", 
+        "Database Management (EndNote, FileMaker Pro)", 
+        "Adobe Photoshop", 
+        "CorelDRAW"
+      ]
+    },
+    {
+      "name": "Hardware & Systems",
+      "keywords": [
+        "DJI Mini 3 Pro", 
+        "DJI Mini SE", 
+        "Ubuntu Linux", 
+        "Windows", 
+        "MacOS"
+      ]
     }
   ]
 }
