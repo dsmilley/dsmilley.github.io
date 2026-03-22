@@ -11,7 +11,25 @@ redirect_from:
   .matte-frame { border: 1px solid rgba(128,128,128,0.3); padding: 10px; margin-bottom: 1.5rem; height: 350px; }
   .matte-frame img { width: 100%; height: 100%; object-fit: cover; }
   
-  .pitch { font-size: 1.1rem; color: var(--primary-color); border-left: 3px solid var(--primary-color); padding-left: 1rem; margin-bottom: 2rem; font-style: italic; }
+  /* Pitch Callout Box - Light Mode */
+  .pitch { 
+    font-size: 1.05rem; 
+    color: #4a2c20; 
+    background-color: rgba(201, 138, 93, 0.15); 
+    border-left: 4px solid #9d3a26; 
+    padding: 1rem; 
+    margin-bottom: 2rem; 
+    font-weight: 500; 
+    border-radius: 0 4px 4px 0;
+    text-align: justify;
+  }
+  
+  /* Pitch Callout Box - Dark Mode */
+  html[data-theme="dark"] .pitch { 
+    color: #dcd3c1; 
+    background-color: #262321; 
+    border-left-color: #c98a5d; 
+  }
   
   #about-me h2 { margin-top: 0.5rem; border-bottom: 1px solid rgba(128,128,128,0.2); }
   #about-me p { font-size: 0.95rem; line-height: 1.5; margin-bottom: 1rem; text-align: justify; }
@@ -38,9 +56,9 @@ redirect_from:
     <img src="/images/PPWallpaper.JPG" alt="Poverty Point Sunset">
   </div>
 
-  <p class="pitch">
+  <div class="pitch">
     I am an Anthropological Archaeologist specializing in GIS-based spatial analysis and landscape phenomenology. My research bridges the gap between quantitative environmental modeling and human-scale experience, with a focus on monumental landscapes in the Southeastern US and the Maya Lowlands.
-  </p>
+  </div>
 
   <h2>About Me</h2>
 
@@ -63,7 +81,6 @@ redirect_from:
     <li><i class="fas fa-fw fa-mountain"></i> <strong>Field Research:</strong> Diverse experience across North America, from northeastern shell middens to the Maya Lowlands. Conducted major research at monumental sites, including the Late Archaic earthworks of <a href="https://whc.unesco.org/en/list/1435/">Poverty Point, LA</a> and the Maya city of Yaxnohcah, Campeche, in the tropical rainforests of the Yucatán Peninsula.</li>
     <li><i class="fas fa-fw fa-layer-group"></i> <strong>Spatial Analysis:</strong> Expertise in Lidar Analysis, <a href="https://www.nv5geospatialsoftware.com/Products/ENVI">ENVI</a>, and Drone Photogrammetry using <a href="https://www.agisoft.com/">Agisoft Metashape</a>.</li>
     <li><i class="fas fa-fw fa-code"></i> <strong>Data & Quantitative Methods:</strong> Statistical analysis and scripting in <a href="https://www.r-project.org/">R</a> and <a href="https://www.python.org/">Python</a>, alongside document preparation in <a href="https://www.latex-project.org/">LaTeX</a>.</li>
-   
     <li><i class="fas fa-fw fa-vials"></i> <strong>Laboratory & Design:</strong> Professional experience in Collections Management, Database Management (<a href="https://www.claris.com/filemaker/">FileMaker Pro</a>, <a href="https://endnote.com/">EndNote</a>), and digital illustration via <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a> and <a href="https://www.coreldraw.com/">CorelDRAW</a>.</li>
   </ul>
 </section>
