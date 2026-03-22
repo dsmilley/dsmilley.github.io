@@ -60,9 +60,10 @@ redirect_from:
   
   <ul class="tech-list">
     <li><i class="fas fa-fw fa-map-marked-alt"></i> <strong>GIS & Remote Sensing:</strong> Advanced proficiency in <a href="https://www.esri.com/en-us/arcgis/products/arcgis-pro/overview">ArcGIS Pro</a>, ArcGIS Desktop, <a href="https://www.esri.com/en-us/arcgis/products/arcgis-online/overview">ArcGIS Online</a>, and <a href="https://qgis.org/">QGIS</a>.</li>
-    <li><i class="fas fa-fw fa-layer-group"></i> <strong>Spatial Analysis:</strong> Expertise in <a href="https://www.usgs.gov/faqs/what-lidar-data-and-where-can-i-get-it">Lidar Analysis</a>, <a href="https://www.nv5geospatialsoftware.com/Products/ENVI">ENVI</a>, and Drone Photogrammetry using <a href="https://www.agisoft.com/">Agisoft Metashape</a>.</li>
+    <li><i class="fas fa-fw fa-mountain"></i> <strong>Field Research:</strong> Diverse experience across North America, from northeastern shell middens to the Maya Lowlands. Conducted major research at monumental sites, including the Late Archaic earthworks of <a href="https://whc.unesco.org/en/list/1435/">Poverty Point, LA</a> and the Maya city of Yaxnohcah, Campeche, in the tropical rainforests of the Yucatán Peninsula.</li>
+    <li><i class="fas fa-fw fa-layer-group"></i> <strong>Spatial Analysis:</strong> Expertise in Lidar Analysis, <a href="https://www.nv5geospatialsoftware.com/Products/ENVI">ENVI</a>, and Drone Photogrammetry using <a href="https://www.agisoft.com/">Agisoft Metashape</a>.</li>
     <li><i class="fas fa-fw fa-code"></i> <strong>Data & Quantitative Methods:</strong> Statistical analysis and scripting in <a href="https://www.r-project.org/">R</a> and <a href="https://www.python.org/">Python</a>, alongside document preparation in <a href="https://www.latex-project.org/">LaTeX</a>.</li>
-    <li><i class="fas fa-fw fa-mountain"></i> <strong>Field Research:</strong> Specialized in monumental earthwork evaluation (<a href="https://whc.unesco.org/en/list/1435/">Poverty Point, LA</a>) and tropical lowland excavation (<a href="https://yaxnohcah.wordpress.com/">Yaxnohcah, Mexico</a>).</li>
+   
     <li><i class="fas fa-fw fa-vials"></i> <strong>Laboratory & Design:</strong> Professional experience in Collections Management, Database Management (<a href="https://www.claris.com/filemaker/">FileMaker Pro</a>, <a href="https://endnote.com/">EndNote</a>), and digital illustration via <a href="https://www.adobe.com/products/photoshop.html">Adobe Photoshop</a> and <a href="https://www.coreldraw.com/">CorelDRAW</a>.</li>
   </ul>
 </section>
